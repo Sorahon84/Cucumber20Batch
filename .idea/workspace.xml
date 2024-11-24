@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
 
     <list default="true" id="0214d26f-21fa-4bc2-a2e7-1abee8b59bc2" name="Changes" comment="" />
 
@@ -11,6 +12,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
 
+=======
+    <list default="true" id="0214d26f-21fa-4bc2-a2e7-1abee8b59bc2" name="Changes" comment="" />
+>>>>>>> d6bac39336b6f4d0b6302c54799c239e7932d700
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,13 +69,19 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/sora/Desktop/domyself/Cucumber20Batch&quot;
   }
 }</component>
+<<<<<<< HEAD
 
+=======
+>>>>>>> d6bac39336b6f4d0b6302c54799c239e7932d700
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="utils" />
     </key>
   </component>
+<<<<<<< HEAD
 
+=======
+>>>>>>> d6bac39336b6f4d0b6302c54799c239e7932d700
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
